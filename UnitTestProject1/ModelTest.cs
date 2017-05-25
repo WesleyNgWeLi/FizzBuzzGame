@@ -13,7 +13,7 @@ namespace UnitTestProject1
     public class ModelTest
     {
         [TestMethod]
-        public void TestMethod1()
+        public void WhenDeclaringNewRuleExpectSuccess()
         {
             FizzBuzzRulesClassModel m = new FizzBuzzRulesClassModel(8, "potato");
 
