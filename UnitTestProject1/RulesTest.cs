@@ -11,12 +11,6 @@ namespace UnitTestProject1
     [TestClass]
     public class RulesTest
     {
-        public RulesTest()
-        {
-            //
-            // TODO: Add constructor logic here
-            //
-        }
 
         #region Additional test attributes
         //
@@ -41,11 +35,42 @@ namespace UnitTestProject1
         #endregion
 
         [TestMethod]
-        public void TestMethod1()
+        public void ExpectFizzIfInputIsDivisibleBy3()
         {
-            //
-            // TODO: Add test logic here
-            //
         }
+        [TestMethod]
+        public void ExpectBuzzIfInputIsDivisibleBy5()
+        {
+        }
+        [TestMethod]
+        public void ExpectPopIfInputIsDivisibleBy3()
+        {
+        }
+        [TestMethod]
+        public void ExpectFizzBuzzIfInputIsDivisibleBy3And5()
+        {
+        }
+        [TestMethod]
+        public void ExpectFizzPopIfInputIsDivisibleBy3And7()
+        {
+        }
+        [TestMethod]
+        public void ExpectBuzzPopIfInputIsDivisibleBy5And7()
+        {
+        }
+        [TestMethod]
+        public void ExpectFizzBuzzPopIfInputIsDivisibleBy3And5And7()
+        {
+        }
+        [TestMethod]
+        public void ExpectNumberIfInputIsNotDivisibleByAnyRule()
+        {
+        }
+        [TestMethod]
+        public void ExpectCustomWordIfInputIsDivisibleByCustomRule()
+        {
+        }
+
+
     }
 }

@@ -7,7 +7,21 @@ namespace UnitTestProject1
     public class InputTest
     {
         [TestMethod]
-        public void TestMethod1()
+        public void WhenIntInputIsNumberExpectSuccess()
+        {
+        }
+        [TestMethod]
+        public void WhenIntInputIsNotIntExpectFailure()
+        {
+        }
+
+        [TestMethod]
+        public void WhenStringInputIsStringExpectSuccess()
+        {
+        }
+
+        [TestMethod]
+        public void WhenStringInputIsNotStringExpectFailure()
         {
         }
     }
