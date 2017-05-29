@@ -5,3 +5,12 @@ F:\User\VisualStudioProjects\FizzBuzz\UnitTestProject1\bin\Debug\FizzBuzzGame.pd
 F:\User\VisualStudioProjects\FizzBuzz\UnitTestProject1\obj\Debug\UnitTestProject1.csprojResolveAssemblyReference.cache
 F:\User\VisualStudioProjects\FizzBuzz\UnitTestProject1\obj\Debug\UnitTestProject1.dll
 F:\User\VisualStudioProjects\FizzBuzz\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
+H:\User\VisualStudioProjects\FizzBuzz\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+H:\User\VisualStudioProjects\FizzBuzz\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+H:\User\VisualStudioProjects\FizzBuzz\UnitTestProject1\bin\Debug\FizzBuzzGame.exe
+H:\User\VisualStudioProjects\FizzBuzz\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+H:\User\VisualStudioProjects\FizzBuzz\UnitTestProject1\bin\Debug\FizzBuzzGame.pdb
+H:\User\VisualStudioProjects\FizzBuzz\UnitTestProject1\bin\Debug\FizzBuzzGame.exe.config
+H:\User\VisualStudioProjects\FizzBuzz\UnitTestProject1\obj\Debug\UnitTestProject1.csprojResolveAssemblyReference.cache
+H:\User\VisualStudioProjects\FizzBuzz\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+H:\User\VisualStudioProjects\FizzBuzz\UnitTestProject1\obj\Debug\UnitTestProject1.pdb

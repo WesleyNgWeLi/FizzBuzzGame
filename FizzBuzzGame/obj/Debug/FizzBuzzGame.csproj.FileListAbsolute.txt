@@ -4,3 +4,9 @@ F:\User\VisualStudioProjects\FizzBuzz\FizzBuzzGame\bin\Debug\FizzBuzzGame.pdb
 F:\User\VisualStudioProjects\FizzBuzz\FizzBuzzGame\obj\Debug\FizzBuzzGame.csprojResolveAssemblyReference.cache
 F:\User\VisualStudioProjects\FizzBuzz\FizzBuzzGame\obj\Debug\FizzBuzzGame.exe
 F:\User\VisualStudioProjects\FizzBuzz\FizzBuzzGame\obj\Debug\FizzBuzzGame.pdb
+H:\User\VisualStudioProjects\FizzBuzz\FizzBuzzGame\bin\Debug\FizzBuzzGame.exe.config
+H:\User\VisualStudioProjects\FizzBuzz\FizzBuzzGame\bin\Debug\FizzBuzzGame.exe
+H:\User\VisualStudioProjects\FizzBuzz\FizzBuzzGame\bin\Debug\FizzBuzzGame.pdb
+H:\User\VisualStudioProjects\FizzBuzz\FizzBuzzGame\obj\Debug\FizzBuzzGame.csprojResolveAssemblyReference.cache
+H:\User\VisualStudioProjects\FizzBuzz\FizzBuzzGame\obj\Debug\FizzBuzzGame.exe
+H:\User\VisualStudioProjects\FizzBuzz\FizzBuzzGame\obj\Debug\FizzBuzzGame.pdb

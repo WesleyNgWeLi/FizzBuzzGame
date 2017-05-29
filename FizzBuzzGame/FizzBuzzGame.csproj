@@ -41,7 +41,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ConsoleService.cs" />
+    <Compile Include="FizzBuzzModelService.cs" />
     <Compile Include="FizzBuzzRulesClassModel.cs" />
+    <Compile Include="FizzBuzzRulesService.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
