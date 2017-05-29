@@ -19,7 +19,7 @@ namespace FizzBuzzGame
             }
             else
             {
-                Console.WriteLine("Invalid AlbumID entered! Please enter a positive number.");
+                Console.WriteLine("Invalid Input entered! Please enter a positive number.");
                 return GetIntInput();
             }
         }
