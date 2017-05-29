@@ -11,7 +11,7 @@ namespace FizzBuzzGame
         public int GetIntInput()
         {
             int returnVal;
-            Console.WriteLine("Please input a positive number:");
+            Console.WriteLine("Please input a positive number.");
             string input = Console.ReadLine();
             if (int.TryParse(input, out returnVal) && ValidatePositiveInt(returnVal))
             {
@@ -19,7 +19,7 @@ namespace FizzBuzzGame
             }
             else
             {
-                Console.WriteLine("Invalid AlbumID entered! Please enter a positive number.");
+                Console.WriteLine("Invalid input entered!");
                 return GetIntInput();
             }
         }
@@ -31,13 +31,13 @@ namespace FizzBuzzGame
 
         public string GetStringInput()
         {
-            Console.WriteLine("Please input a word:");
+            Console.WriteLine("Please input a word.");
             string input = Console.ReadLine();
             if (ValidateIsAlphabets(input))
                 return input;
             else
             {
-                Console.WriteLine("Invalid word entered! Please enter only alphabets.");
+                Console.WriteLine("Invalid input entered! Please enter only alphabets!");
                 return GetStringInput();
             }
         }
@@ -60,7 +60,7 @@ namespace FizzBuzzGame
                 return input;
             else
             {
-                Console.WriteLine("Please enter a number to play or R to add a rule");
+                Console.WriteLine("Invalid input! Please enter either a number or R!");
                 return GetGameInput();
             }
         }

@@ -10,6 +10,8 @@ namespace FizzBuzzGame
     {
         static void Main(string[] args)
         {
+            FizzBuzzRulesService RS = new FizzBuzzRulesService();
+            RS.StartGame();
         }
     }
 }
